@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Karthikeswari
+- 👀 I’m interested in Learning and exploring new things .
+- 🌱 I’m currently learning Pyhton and flask framework.
+- 💞️ I’m looking to collaborate on python and web development projects.
+- 📫 How to reach me Email - karthikeswaripadmanaban@gmail.com
+
+<!---
+Karthikeswari/Karthikeswari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
