@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karthikeswari
 - 👀 I’m interested in Learning and exploring new things .
-- 🌱 I’m currently learning Python and flask framework.
+- 🌱 I’m currently learning Java,HTML,CSS,Python,Bootstrap,JQUERY,.
 - 💞️ I’m looking to collaborate on python and web development projects.
 - 📫 How to reach me Email - karthikeswaripadmanaban@gmail.com
 
